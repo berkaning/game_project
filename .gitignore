@@ -1,0 +1,16 @@
+# C++ source files
+*.cpp
+*.h
+*.o
+*.obj
+
+
+# Assets 
+assets/
+
+# VS Code settings
+.vscode/
+
+# Windows DLL files
+*.dll
+*.exe
