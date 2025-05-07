@@ -12,5 +12,4 @@ assets/
 .vscode/
 
 # Windows DLL files
-*.dll
-*.exe
+
